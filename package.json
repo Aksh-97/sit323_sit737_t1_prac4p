@@ -1,0 +1,14 @@
+{
+  "name": "sit323_737-20230-t1-prac4p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akshayasri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
